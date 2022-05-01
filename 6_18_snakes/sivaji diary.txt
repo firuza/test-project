@@ -1,0 +1,46 @@
+date:7th october 2014
+time spent:1hr
+details:project snakes & ladders is decided.
+
+date:10th october 2014
+time spent:2 hr
+details:but i changed my project that i decided snakes .because i have less support from my team mates
+
+date:12th octobet2014
+time spent:2hrs
+details:decided algorithm
+
+date:14th october 2014
+time:3hr
+details:i met seniors & discussed about project
+
+date: 16th october 2014
+time:3 hr
+details:tried some code
+ in between i tried some code at random times
+date: 18th november 2014
+time : 2 hr
+details: met TA. discussed about project.
+
+date :19th november 2014
+time: 3 hr
+details: tried code but not done. I read some lectures 
+
+date:20th november 2014
+time: 10 min
+details:i met my team mate ronil raj he said we are not able to do the project.
+he had given a suggestion to take reference from seniors' projects
+ 
+date:21st november 2014
+time:5 hrs
+details: we tried to understand senoir's project.
+
+date:23rd november 2014
+time:6hrs
+details: completed the project. 
+
+
+
+
+
+ 

@@ -1,0 +1,25 @@
+﻿                            OUR ALGORITHM      
+
+We have made the snake game in which we have used the following algorithm:
+
+
+1)Our snake is drawn by taking an array of circles which are continuously resetted for showing the snake move.
+
+2)We have used scribble for checking keyboard press events.
+
+3)When the user changes the direction of snake by pressing a key,we reset the first circle(head of snake) one step in that direction and the remaining circles follow the first circle at all instants.
+
+4)When the snake touches the side wall,we reset the head of snake on the opposite wall,and as before rest part of snake follow..
+
+5)We use the function rand for giving the coordinates of point circles(target circles) at arbitrary locations.
+
+6)When the snake eats(gets through) a point circle,we call the function rand to give new coordinates and then reset the previous point circle to the new location(new target for the snake).Score of 10 is added.
+
+7)When the tail of snake reaches the point circle given; the point circle gets added to the snake(if (n-1) is the previous no. Of circles in the snake ,we define the nth circle to be this point and add this element in the array of circles) .
+
+8)One thing we took care of is that the point circle(target circle) we give should not lie on snake (as this does not make sense) ,so we removed this possibility also by checking the points everytime.   
+
+9)In another level of our game we have blocked the walls(the snake could not pass through them) and produced some new bricks ,where if the snake touches them it will die..
+10)For making bricks we have used a struct “button” and defined a member function “inside” for checking whether the snake touches the bricks.In that case the snake dies(as expected).
+
+	WE HOPE YOU WOULD ENJOY GAMING
