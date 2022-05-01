@@ -13,6 +13,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    - name: install cppunit
+      run: sudo apt install -y libcppunit-dev
     - name: Change configure permissions
       run: chmod +x ./configure
     - name: configure
