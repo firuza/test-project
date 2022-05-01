@@ -1,5 +1,5 @@
 all:
-    g++ hello.cpp -o hello
+	g++ hello.cpp -o hello
 
 clean:
-    $(RM) hello
+	$(RM) hello
