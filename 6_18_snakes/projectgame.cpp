@@ -738,7 +738,7 @@ void level_game()
 		}
 	}
 }
-int main()
+main_program()
 {
 	char a[100];
 	cout<<"hello welcome to ur snake game\n";
