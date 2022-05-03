@@ -1,5 +1,5 @@
 all:
-	/home/runner/simplecpp/s++ hello.cpp -o hello
+	$HOME/simplecpp/s++ hello.cpp -o hello
 
 clean:
 	$(RM) hello
