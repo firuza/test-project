@@ -6,8 +6,7 @@
 INSTALLDIR=$HOME/simplecpp
 BINDIR=$HOME/bin
 TARFILE="simplecpp.tar"
-URL="https://www.cse.iitb.ac.in/~ranade/simplecpp/$TARFILE"
-
+URL="https://github.com/iitbcs101/simplecpp/raw/main/$TARFILE"
 if [ -d "$INSTALLDIR" ]; then
     echo "It looks like you already have simplecpp in $INSTALLDIR"
     echo "Remove $INSTALLDIR and rerun this script if you wish"
