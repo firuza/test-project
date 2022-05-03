@@ -1,4 +1,4 @@
-#include <iostream>
+#include <simplecpp>
 
 // bool testFunction() {
 // 	bool mano=false;
@@ -12,7 +12,7 @@
 // 	return mano;//we are returning the true when it is inside of the snake @@@@@@@@    
 // }
 
-int main()
+main_program
 {
-    std::cout << "Hello, World!" << std::endl;
+    cout << "Hello, World!" << endl;
 }
