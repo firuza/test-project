@@ -19,9 +19,9 @@ jobs:
       run: chmod +x ./installsimplecpp.sh
     - name: install simplecpp
       run: ./installsimplecpp.sh
-    - name: Change configure permissions
-      run: chmod +x ./configure
-    - name: configure
-      run: ./configure
+    # - name: Change configure permissions
+    #   run: chmod +x ./configure
+    # - name: configure
+    #   run: ./configure
     - name: make
       run: make
