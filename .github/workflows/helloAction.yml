@@ -27,7 +27,7 @@ jobs:
     #   run: ./configure
     - name: cloc
       run: sudo apt install -y cloc
-    - name: comment count
+    - name: Count types of files, blanks, comments, and lines of code
       run: cloc .
-    - name: make
+    - name: Build status
       run: make
