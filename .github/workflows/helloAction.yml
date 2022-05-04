@@ -25,9 +25,9 @@ jobs:
     #   run: chmod +x ./configure
     # - name: configure
     #   run: ./configure
-    - name: make
-      run: make
     - name: cloc
       run: sudo apt install -y cloc
     - name: comment count
       run: cloc .
+    - name: make
+      run: make
